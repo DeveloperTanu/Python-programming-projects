@@ -89,3 +89,6 @@ Practical feature engineering techniques
 Importance of preprocessing pipelines
 End-to-end machine learning workflow
 Model evaluation fundamentals
+
+Link to titanic.csv file (I do not own the file)
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
